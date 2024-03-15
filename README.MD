@@ -3,8 +3,12 @@
 
 ![Alt Text](https://firebasestorage.googleapis.com/v0/b/chrisdev3001-2.appspot.com/o/skel-gif-example.gif?alt=media&token=09edb4ba-3e94-43e8-881c-9af02da7bf52)
 
+
+
 A simple React Native component that implements a Skeleton UI.
-It will performance your react-native app and you will get more fps ( this library only works in a bare react-native app / it wont work in a expo-react-native app ).
+It will performance your react-native app and you will get more fps ( this library only works in a bare react-native app ).
+
+if you are using expo, please use this lib: [react-native-ui-skel-expo](https://www.npmjs.com/package/react-native-ui-skel-expo)
 
 1. Install your skel
 
