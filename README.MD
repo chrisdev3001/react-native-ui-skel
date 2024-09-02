@@ -5,6 +5,8 @@
 
 ![Alt Text](https://github.com/chrisdev3001/react-native-ui-skel/blob/master/skel2.gif?raw=true)
 
+Note: gift are just examples, and are not syncronius because they were converted
+
 
 A simple React Native component that implements a Skeleton UI.
 It will performance your react-native app and you will get more fps ( this library only works in a bare react-native app ).
