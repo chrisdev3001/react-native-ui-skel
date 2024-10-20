@@ -1,6 +1,6 @@
 {
   "name": "react-native-ui-skel",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A simple React Native component that implements a Skeleton UI.",
   "main": "./package/src/index.js",
   "types": "./package/src/index.d.ts",

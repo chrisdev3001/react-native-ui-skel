@@ -3,7 +3,6 @@
 
 ![Alt Text](https://github.com/chrisdev3001/react-native-ui-skel/blob/master/skel1.gif?raw=true)
 
-![Alt Text](https://github.com/chrisdev3001/react-native-ui-skel/blob/master/skel2.gif?raw=true)
 
 Note: gift are just examples, and are not syncronius because they were converted
 

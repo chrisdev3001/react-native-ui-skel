@@ -11,6 +11,8 @@ interface SkelProps extends ViewProps{
   styles: StyleProp<ViewStyle>
 }
 
+const HUNDRED_PERCENT = '100%'
+
 export const Skel = ({ 
   width, 
   height,
@@ -47,12 +49,12 @@ export const Skel = ({
       {...props}
       >
       <Animated.View style={{
-        width: '100%',
-        height: '100%',
+        width: HUNDRED_PERCENT,
+        height: HUNDRED_PERCENT,
         transform: [{ translateX: translateX }]
       }}>
         <LinearGradient
-          style={{ width: '100%', height: '100%' }}
+          style={{ width: HUNDRED_PERCENT, height: HUNDRED_PERCENT }}
           colors={backgroundAnimationColor}
           start={{ x: 1, y: 1 }}
         />
